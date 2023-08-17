@@ -1,3 +1,4 @@
+<img src="image.jpg">
 ### Hi there 👋
 
 ## My Nama Is Muhammad Ravi😄
@@ -22,7 +23,7 @@
 </span>
 
 ## Thank You For Coming Here ✨
-<img src="Snapinsta.app_365874537_2062744014089009_815605791494342770_n_1080.jpg">
+
 <!--
 **raviKanaeru/raviKanaeru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
