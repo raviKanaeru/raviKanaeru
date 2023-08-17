@@ -5,7 +5,7 @@
 - My portofolio website [My Portofolio](https://ravikanaeru.github.io/portfolio-tailwind-css-3/)🙎🏼‍♂️
 - Im Fullstack Development (Junior) 🤔
 
-## Programming languange 🔭
+## Programming languange & Skills 🔭
 <span>
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
