@@ -4,7 +4,6 @@
 ## My Nama Is Muhammad Ravi😄
 
 - My portofolio website [My Portofolio](https://ravikanaeru.github.io/portfolio-tailwind-css-3/)🙎🏼‍♂️
-- Im Fullstack Development (Junior) 🤔
 
 ## Programming languange & Skills 🔭
 <span>
