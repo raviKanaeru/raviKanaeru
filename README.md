@@ -1,4 +1,4 @@
-<img src="image.jpg">
+<img src="image.jpg" style="width: 100%; height:50%">
 ### Hi there 👋
 
 ## My Nama Is Muhammad Ravi😄
